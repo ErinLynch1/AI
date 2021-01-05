@@ -1,0 +1,66 @@
+What tier am I in
+To find out your tier - please visit https://www.gov.uk/find-coronavirus-local-restrictions and type in your postcode 
+Why a tiered system
+to ensure places that have increased signs of outbreak are managed and the virus is suppressed and the R is kept below 1. 
+What can I do in tier 1
+full details of what you can do in tier 1 can be found here - https://www.gov.uk/guidance/tier-1-medium-alert 
+What can I do in tier 2 
+full details of what you can do in tier 2 can be found here - https://www.gov.uk/guidance/tier-2-high-alert 
+What can I do in tier 3 
+full details of what you can do in tier 3 can be found here - https://www.gov.uk/guidance/tier-3-very-high-alert 
+What can I do in tier 4
+full details of what you can do in tier 4 can be found here - https://www.gov.uk/guidance/tier-4-stay-at-home 
+How many tiers are there?
+Currently there are four tiers - details about these tiers can be found here - https://www.gov.uk/guidance/local-restriction-tiers-what-you-need-to-know?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae
+What tiers are my family in? 
+To find out your family and friends tier - please visit https://www.gov.uk/find-coronavirus-local-restrictions and type in their postcode. Alternately you can visit - https://www.gov.uk/guidance/full-list-of-local-restriction-tiers-by-area - to find a full list of the areas and what tier they fall under. 
+Where can I find the latest update for the uk
+The latest updates for UK can be found here - https://www.gov.uk/coronavirus 
+Where can I find the latest updates for the rest of the world? 
+The latest updates for the whole world - https://covid19.who.int/ 
+Where can I find the latest updates 
+The latest updates for UK can be found here - https://www.gov.uk/coronavirus and for the rest of the world can be found here - https://covid19.who.int/ 
+How many new cases are there today 
+https://coronavirus.data.gov.uk/details/cases 
+How many new cases in England today 
+https://coronavirus.data.gov.uk/details/cases?areaType=nation&areaName=England 
+How many new cases in Wales today 
+https://coronavirus.data.gov.uk/details/cases?areaType=nation&areaName=Wales 
+How many new cases in Northern Ireland today
+https://coronavirus.data.gov.uk/details/cases?areaType=nation&areaName=Northern%20Ireland 
+How many new cases in Scotland today 
+https://coronavirus.data.gov.uk/details/cases?areaType=nation&areaName=Scotland 
+Can I travel to another country 
+if you are in a tier 4 area, then you should not travel aboard. You will need a legally permitted reason to leave home. A full checklist of what do to before, during and after travel can be found here - https://www.gov.uk/guidance/travel-advice-novel-coronavirus. You also need to check the country you are travelling to for their advice on quarantine on arrival. 
+What countries do I not have to quarantine from? The current list of countries is here 
+https://www.gov.uk/guidance/coronavirus-covid-19-travel-corridors. Any countries not on this list then you will need to go into 
+Can my business remain open? 
+Depending on the tier you are in - depends on whether your business can remain open or not. Full details on  the restriction for different businesses can be found here - https://www.gov.uk/guidance/working-safely-during-coronavirus-covid-19?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae  
+Can I get support for my business
+All details of the support you can receive is detailed here - https://www.gov.uk/coronavirus/business-support 
+Are schools still open
+The latest update can be found here - https://www.gov.uk/guidance/national-lockdown-stay-at-home#going-to-school-college-and-university 
+Are schools still open in England
+The latest update on schools in England can be found here - https://www.gov.uk/guidance/national-lockdown-stay-at-home#going-to-school-college-and-university                                                                                                                                                                                                                                                                    
+Are schools still open in Wales
+The latest update on schools in Wales can be found here - https://gov.wales/alert-level-4-frequently-asked-questions#section-58328 
+Are schools still open in Scotland
+The latest update on schools in Scotland can be found here - https://www.gov.scot/publications/coronavirus-covid-19-stay-at-home-guidance/ 
+Are schools still open in Northern Ireland 
+The latest update on schools in Northern Ireland can be found here - https://www.nidirect.gov.uk/articles/coronavirus-covid-19-advice-schools-colleges-and-universities 
+Can I still go to work?
+Depending on your tier, depends if you can still go to work. To find out your tier and more details regarding this, please visit https://www.gov.uk/guidance/local-restriction-tiers-what-you-need-to-know?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae 
+Does my work have to pay if I have to self isolate
+You will receive statutory sick pay for the time you are off work and may also be eligible for test and trace support payment. Full details of the finical support available can be found here - https://www.gov.uk/guidance/coronavirus-covid-19-what-to-do-if-youre-employed-and-cannot-work 
+I live in Wales,what are the rules for me
+Latest updates on the rules for Wales can be found here - https://gov.wales/coronavirus 
+I live in Wales
+Latest updates on the rules for Wales can be found here - https://gov.wales/coronavirus 
+I live in Scotland,what are the rules for me
+Latest updates on the rules for Scotland can be found here - https://www.gov.scot/coronavirus-covid-19/ 
+I live in Scotland
+Latest updates on the rules for Scotland can be found here - https://www.gov.scot/coronavirus-covid-19/ 
+I live in Northern Ireland,what are the rules for me -
+Latest updates on the rules for Northern Ireland can be found here - https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19 
+I live in Northern Ireland 
+Latest updates on the rules for Northern Ireland can be found here - https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19 
